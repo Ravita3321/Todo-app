@@ -1,2 +1,2 @@
 # Todo-app
-this to-do list app helps you organize tasks and keep track of works, making it easier to get things done and avoid missing deadlines.
+This to-do list app is build with HTML and JavaScript helps you organize tasks and keep track of works, making it easier to get things done and avoid missing deadlines.
